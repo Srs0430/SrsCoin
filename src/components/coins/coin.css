@@ -1,0 +1,34 @@
+.cryptoCoin{
+    overflow: hidden;
+    text-align: center;
+    border-radius: 1rem;
+    position: relative;
+    width: 320px;
+    margin: 2rem;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.5);
+}
+
+.coinLogo{
+    width: 8rem;
+    margin-top: 1.2rem;
+    height: 40px;
+    width: 40px;
+}
+.coinNameWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    font-weight: 700;
+}
+.coinName {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.coinSymbal {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 8px;
+}
