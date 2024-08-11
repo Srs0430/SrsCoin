@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srs-coin/static/css/main.bd485148.css",
+    "main.js": "/srs-coin/static/js/main.663a0978.js",
+    "static/js/453.353a2c1f.chunk.js": "/srs-coin/static/js/453.353a2c1f.chunk.js",
+    "index.html": "/srs-coin/index.html",
+    "main.bd485148.css.map": "/srs-coin/static/css/main.bd485148.css.map",
+    "main.663a0978.js.map": "/srs-coin/static/js/main.663a0978.js.map",
+    "453.353a2c1f.chunk.js.map": "/srs-coin/static/js/453.353a2c1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd485148.css",
+    "static/js/main.663a0978.js"
+  ]
+}
